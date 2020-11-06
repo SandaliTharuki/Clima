@@ -19,6 +19,3 @@ class Location{
 
 }
 
-//double temperature = decodedData ['main']['temp'];
-//int weather = decodedData ['weather'][0]['id'];
-//String city = decodedData ['name'];
